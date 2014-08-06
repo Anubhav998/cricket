@@ -18,8 +18,8 @@
 
 //$cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
 //$cakeVersion = __d('cake_dev', 'CakePHP %s', Configure::version());
-$css_files = array("bootstrap.min","fancybox/jquery.fancybox","jcarousel", "flexslider","style","/skins/default");
-$js_files =array('jquery.js','jquery.easing.1.3.js','bootstrap.min.js','jquery.fancybox.pack.js','jquery.fancybox-media.js','google-code-prettify/prettify.js','portfolio/jquery.quicksand.js','portfolio/setting.js','jquery.flexslider.js','animate.js','custom.js');
+$css_files = array("bootstrap.min","fancybox/jquery.fancybox","jcarousel", "flexslider","style","/skins/default","calendar");
+$js_files =array('jquery.js','jquery.easing.1.3.js','bootstrap.min.js','jquery.fancybox.pack.js','jquery.fancybox-media.js','google-code-prettify/prettify.js','portfolio/jquery.quicksand.js','portfolio/setting.js','jquery.flexslider.js','animate.js','custom.js','custom2','calendar');
 ?>
 <!DOCTYPE html>
 <html>
